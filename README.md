@@ -1,16 +1,84 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**RogiVVV/RogiVVV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Привет, я Игорь👋
 
-Here are some ideas to get you started:
+### AI Engineering Student · Python Developer · ML Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Студент первого курса ИТМО по направлению **«Инженерия искусственного интеллекта»**.  
+Развиваюсь в машинном обучении, анализе данных и создании прикладных продуктов.
+
+[![Email](https://img.shields.io/badge/Email-RogiVVV@yandex.ru-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:RogiVVV@yandex.ru)
+
+</div>
+
+---
+
+## 💡 Немного обо мне
+
+Я начинающий разработчик и студент направления **AI Engineering**, который постепенно формирует сильную базу в математике и практическом программировании.
+
+Сейчас мой основной фокус — **Machine Learning** и анализ данных. Параллельно с этим я реализовываю прикладные проекты, но о них чуть позже
+
+---
+
+## 📖 Что я изучаю и развиваю
+
+- Machine Learning и основы Deep Learning
+- Python для анализа данных и прикладной разработки
+- Алгоритмы и структуры данных
+- Математическую базу для ИИ
+- Проектирование небольших программных продуктов
+
+---
+
+## 🛠 Технологический стек
+
+### Языки программирования
+
+<p>
+
+<img height="42" src="https://skillicons.dev/icons?i=python" />
+<img height="42" src="https://skillicons.dev/icons?i=c" />
+
+</p>
+
+---
+
+### Инструменты
+
+<p>
+
+<img height="42" src="https://skillicons.dev/icons?i=git" />
+<img height="42" src="https://skillicons.dev/icons?i=github" />
+<img height="42" src="https://skillicons.dev/icons?i=vscode" />
+<img height="42" src="https://skillicons.dev/icons?i=pycharm" />
+
+</p>
+
+---
+
+## Мои проекты
+
+### 📊 [TgStat](https://github.com/RogiVVV/TgStat)
+
+> Кросплатформенное приложение для анализа чатов, групп и каналов в Telegram
+
+**Стек:** Python
+
+---
+
+### 💬 [Телеграм бот с цитатами Стэтхема](https://github.com/RogiVVV/Statham-quotes-bot)
+
+> Телеграм бот, который по клику может отправить тебе цитату Стэтхема, последние новости или информацию о погоде в любом городе
+
+**Стек:** Python  
+
+---
+
+<div align="center">
+
+### Спасибо, что заглянули в мой профиль!
+
+Буду рад новым проектам, стажировкам, open source-инициативам и профессиональному общению.
+
+</div>
